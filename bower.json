@@ -1,0 +1,7 @@
+{
+    "name": "angularapp-gulp",
+    "version": "0.0.1",
+    "description": "POC of web tier to Disney composite",
+
+    "dependencies": {}
+}
